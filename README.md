@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5.2-orange.svg" />
     <img src="https://img.shields.io/badge/MacOS-blue.svg" />
-    <img src="http://img.shields.io/badge/version-1.0.0-green.svg?style=flat" alt="Version" />
+    <img src="http://img.shields.io/badge/version-1.0.1-green.svg?style=flat" alt="Version" />
     <a href="https://github.com/KarimEbrahemAbdelaziz/Bitty/blob/main/LICENSE">
         <img src="http://img.shields.io/badge/license-MIT-70a1fb.svg?style=flat" alt="MIT License" />
     </a>
